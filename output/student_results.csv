@@ -1,0 +1,9 @@
+Student_ID,Name,Maths,Science,English,Computer,Social_Science,Total,Average,Percentage,Grade,Rank,Result
+101,Amit,85,78,82,95,80,420,84.0,84.0,A,4,Pass
+102,Ravi,72,68,75,88,70,373,74.6,74.6,B,5,Pass
+103,Priya,95,92,89,98,94,468,93.6,93.60000000000001,A+,1,Pass
+104,Neha,60,65,70,75,68,338,67.6,67.60000000000001,C,6,Pass
+105,Rohit,45,50,55,60,48,258,51.6,51.6,D,7,Pass
+106,Anjali,88,90,85,92,87,442,88.4,88.4,A,2,Pass
+107,Vikas,30,42,38,55,40,205,41.0,41.0,F,8,Fail
+108,Simran,78,85,91,89,84,427,85.4,85.39999999999999,A,3,Pass
